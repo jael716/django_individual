@@ -36,7 +36,7 @@ Algunos de los sitios más transitados en la web aprovechan la capacidad de Djan
 """
 ¿Qué desventajas nos trae este tipo de proyectos sin Django?
 es posible desarrollar proyectos web sin utilizar frameworks como Django, hacerlo conlleva más complejidad, riesgos de seguridad y una mayor carga de trabajo. 
-os frameworks web están diseñados para agilizar el desarrollo, mejorar la seguridad y facilitar la escalabilidad, por lo que su uso suele ser recomendado en la mayoría de los proyectos web.
+los frameworks web están diseñados para agilizar el desarrollo, mejorar la seguridad y facilitar la escalabilidad, por lo que su uso suele ser recomendado en la mayoría de los proyectos web.
 
 
 """
