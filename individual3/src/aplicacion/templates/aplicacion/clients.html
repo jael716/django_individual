@@ -1,0 +1,13 @@
+
+{% extends 'base_layout.html' %} 
+{% block content %}
+
+    <h1>Clientes</h1>
+    <ul>
+    {% for client in clients %}
+        <li>{{ client.name }}, {{ client.email }}, {{ client.phone }}</li>
+    {% endfor %}
+    </ul>
+  </body>
+
+{% endblock  %}
